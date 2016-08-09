@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pracc04-1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="fit_subjects">
+        <item>IT</item>
+        <item>Preduzetnistvo</item>
+        <item>Skripting Jezici</item>
+        <item>Objektno-Orientisano Programiranje</item>
+        <item>Modelovanje Podataka</item>
+        <item>Razvoj Video Igara</item>
+    </string-array>
+
+    <string-array name="fdu_subjects">
+        <item>Human Computer Interaction</item>
+        <item>Branding</item>
+        <item>Social Marketing</item>
+        <item>Fonts</item>
+    </string-array>
+</resources>
